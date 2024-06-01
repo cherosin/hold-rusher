@@ -1,12 +1,18 @@
 {
-  "Plugin-Class": "org.example.ExamplePlugin",
-  "Name": "Example Plugin",
+  "Plugin-Class": "me.cherosin.HoldKeybindPlugin",
+  "Name": "Hold Keybind Plugin",
   "Version": "${plugin_version}",
-  "Description": "Example rusherhack plugin",
+  "Description": "holds",
   "Authors": [
-    "John200410"
+    "John200410",
+    "cherosin"
   ],
   "Minecraft-Versions": [
-    "1.20.1"
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6"
   ]
 }
